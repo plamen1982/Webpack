@@ -12,5 +12,5 @@
 <h2>Add file webpack.config.js, run from the console only:</h2>
 <h5>webpack</h5>
 
-<h2></h2>
-<h5></h5>
+<h2>A PRETTIER OUTPUT</h2>
+<h5>webpack --progress --colors</h5>
