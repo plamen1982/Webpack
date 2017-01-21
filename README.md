@@ -15,5 +15,11 @@
 <h2>A PRETTIER OUTPUT</h2>
 <h5>webpack --progress --colors</h5>
 
-<h2>A PRETTIER OUTPUT</h2>
+<h2>WATCH MODE</h2>
 <h5>webpack --progress -- colors --watch</h5>
+
+<h2>DEVELOPMENT SERVER</h2>
+<h5>Install globally</h5>
+<h5>npm install webpack-dev-server -g</h5>
+<h5>webpack-dev-server --progress --colors</h5>
+<h5>Open localhost:8080</>
