@@ -14,3 +14,6 @@
 
 <h2>A PRETTIER OUTPUT</h2>
 <h5>webpack --progress --colors</h5>
+
+<h2>A PRETTIER OUTPUT</h2>
+<h5>webpack --progress -- colors --watch</h5>
